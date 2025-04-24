@@ -88,7 +88,7 @@ This platform enables **proposers** (community leaders or organizations) to prop
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/tree-plantation-tracker.git
-cd tree-plantation-tracker
+cd tree-plantation-tracker/clibend
 
 # Install PHP and JavaScript dependencies
 composer install
