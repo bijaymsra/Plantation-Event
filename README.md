@@ -85,6 +85,9 @@ This platform enables **proposers** (community leaders or organizations) to prop
 
 ## 📦 Installation & Setup
 
+🚀 Getting Started
+Follow these steps to set up the project locally:
+
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/tree-plantation-tracker.git
@@ -122,9 +125,6 @@ php artisan db:seed
 php artisan serve
 
 ```
-
-## 🚀 Getting Started
-Follow these steps to set up the project locally:
 
 
 ---
