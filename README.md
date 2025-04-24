@@ -90,25 +90,42 @@ This platform enables **proposers** (community leaders or organizations) to prop
 git clone https://github.com/your-username/tree-plantation-tracker.git
 cd tree-plantation-tracker
 
-# Install dependencies
+# Install PHP and JavaScript dependencies
 composer install
 npm install
 
-# Environment setup
+# Copy the example environment file and generate the application key
 cp .env.example .env
 php artisan key:generate
 
-# Configure .env for database
+# Configure the .env file for MySQL database
+# Open the .env file and update the following lines with your MySQL credentials:
+# 
+# DB_CONNECTION=mysql
+# DB_HOST=127.0.0.1
+# DB_PORT=3306
+# DB_DATABASE=eco
+# DB_USERNAME=your_mysql_username
+# DB_PASSWORD=your_mysql_password
+#
+# Make sure the database `eco` is already created in MySQL:
+# Run this in MySQL:
+# CREATE DATABASE eco;
 
-# Run migrations
+# Run database migrations to create necessary tables
 php artisan migrate
 
-# (Optional) Seed the database
+# (Optional) Seed the database with sample data
 php artisan db:seed
 
-# Run the app
+# Start the local development server
 php artisan serve
+
 ```
+
+## 🚀 Getting Started
+Follow these steps to set up the project locally:
+
 
 ---
 
