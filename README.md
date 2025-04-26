@@ -19,9 +19,9 @@ This platform enables **proposers** (community leaders or organizations) to prop
 
 ---
 
-## 🧭 Key Features
+## 🧭 Key Features & Preview
 
-### 1. 🔖 Landing Page
+### 1. 🔖 Dashboard Page
 - Hero banner with mission statement
 - CTA Buttons: `Join Us`, `View Events`
 - Real-time counters (trees planted, users joined, upcoming events)
@@ -39,6 +39,9 @@ This platform enables **proposers** (community leaders or organizations) to prop
 - Organizer contact
 - "Join Event" button (login required)
 
+### 📊 Dashboard
+![Dashboard](./images/dashboard.png)
+
 ---
 
 ### 2. 🔐 User Authentication & Registration
@@ -46,6 +49,29 @@ This platform enables **proposers** (community leaders or organizations) to prop
 - Email/password authentication
 - Role-based redirection to respective dashboards
 - Email verification (optional OAuth support)
+
+### 🔑 Login Page
+![Login Page](./images/login.png)
+
+---
+
+### 5. 👤 End-User Dashboard
+- **Browse Events**: Filter by location, tree type, and dates
+- **My Events**: View joined/bookmarked events, give feedback
+- **Profile**: Update info, view streaks/badges (future gamification)
+
+### 👥 User Interface
+![User Page](./images/user.png)
+
+---
+
+### 4. ✍️ Proposer Dashboard
+- **My Events**: View/edit/delete proposals, check approval status
+- **Create Event**: Title, description, location, tree type, dates, participants
+- **Event Reports**: Mark events completed, upload images, trees planted
+
+### ✍️ Proposer Interface
+![Proposer Page](./images/proposer.png)
 
 ---
 
@@ -56,42 +82,10 @@ This platform enables **proposers** (community leaders or organizations) to prop
 - Activity stats (charts, reports)
 - Edit static content (About, Contact)
 
----
-
-### 4. ✍️ Proposer Dashboard
-- **My Events**: View/edit/delete proposals, check approval status
-- **Create Event**: Title, description, location, tree type, dates, participants
-- **Event Reports**: Mark events completed, upload images, trees planted
-
----
-
-### 5. 👤 End-User Dashboard
-- **Browse Events**: Filter by location, tree type, and dates
-- **My Events**: View joined/bookmarked events, give feedback
-- **Profile**: Update info, view streaks/badges (future gamification)
-
----
-
-## 🌿 Plantation Event Application Preview
-
 ### 🔐 Admin Panel
 ![Admin Panel](./images/admin.png)
 
-### 📊 Dashboard
-![Dashboard](./images/dashboard.png)
-
-### 🔑 Login Page
-![Login Page](./images/login.png)
-
-### ✍️ Proposer Interface
-![Proposer Page](./images/proposer.png)
-
-### 👥 User Interface
-![User Page](./images/user.png)
-
-
 ---
-
 
 ## 🚀 Tech Stack
 
