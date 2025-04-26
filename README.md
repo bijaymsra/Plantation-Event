@@ -24,8 +24,7 @@ This platform enables **proposers** (community leaders or organizations) to prop
 ### 1. 🔖 Dashboard Page
 - Hero banner with mission statement
 - CTA Buttons: `Join Us`, `View Events`
-- Real-time counters (trees planted, users joined, upcoming events)
-- Search bar to filter events
+- Real-time counters (trees planted, users joined)
 - Testimonials or success stories
 
 ### 1.1 📞 Contact & About Page
@@ -46,9 +45,8 @@ This platform enables **proposers** (community leaders or organizations) to prop
 
 ### 2. 🔐 User Authentication & Registration
 - Role-based registration (Admin, Proposer, End User)
-- Email/password authentication
+- Password authentication
 - Role-based redirection to respective dashboards
-- Email verification (optional OAuth support)
 
 ### 🔑 Login Page
 ![Login Page](./images/login.png)
