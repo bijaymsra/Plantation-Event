@@ -72,6 +72,22 @@ This platform enables **proposers** (community leaders or organizations) to prop
 
 ---
 
+## 📸 UI Screenshots
+
+<p align="center">
+  <img src="./images/admin.png" width="400" alt="Admin Panel"/>
+  <img src="./images/dashboard.png" width="400" alt="Dashboard"/>
+</p>
+
+<p align="center">
+  <img src="./images/login.png" width="400" alt="Login Page"/>
+  <img src="./images/proposer.png" width="400" alt="Proposer Page"/>
+  <img src="./images/user.png" width="400" alt="User Page"/>
+</p>
+
+---
+
+
 ## 🚀 Tech Stack
 
 - **Framework**: Laravel 10+
