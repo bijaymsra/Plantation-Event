@@ -72,18 +72,23 @@ This platform enables **proposers** (community leaders or organizations) to prop
 
 ---
 
-## 📸 UI Screenshots
+## 🌿 Plantation Event Application Preview
 
-<p align="center">
-  <img src="./images/admin.png" width="400" alt="Admin Panel"/>
-  <img src="./images/dashboard.png" width="400" alt="Dashboard"/>
-</p>
+### 🔐 Admin Panel
+![Admin Panel](./images/admin.png)
 
-<p align="center">
-  <img src="./images/login.png" width="400" alt="Login Page"/>
-  <img src="./images/proposer.png" width="400" alt="Proposer Page"/>
-  <img src="./images/user.png" width="400" alt="User Page"/>
-</p>
+### 📊 Dashboard
+![Dashboard](./images/dashboard.png)
+
+### 🔑 Login Page
+![Login Page](./images/login.png)
+
+### ✍️ Proposer Interface
+![Proposer Page](./images/proposer.png)
+
+### 👥 User Interface
+![User Page](./images/user.png)
+
 
 ---
 
